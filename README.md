@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=34b9e5&height=170&section=header&text=Hyeon&fontSize=70&fontAlign=77&fontColor=FFFFFF" />
 
-</br>
-
-</br>
-
 <div align="center">
   <h3> :muscle: Skills</h3>
 </div>
