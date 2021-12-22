@@ -2,9 +2,6 @@
 
 </br>
 
-<p align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qudgus21"/></p>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qudgus21">
-
 </br>
 
 <div align="center">
