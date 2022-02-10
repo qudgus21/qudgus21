@@ -36,7 +36,10 @@
 <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=Angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
+  
+  
 </br>
 </br>
   
