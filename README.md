@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=Angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Ruby on Rails&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
   
   
@@ -52,6 +51,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Wrike-000000?style=flat-square&logo=Wrike&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 
 </br>
 </br>
