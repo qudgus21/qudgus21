@@ -33,6 +33,7 @@
 </div>
 
 <p align ="center">
+<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=Angular&logoColor=#DD0031" />
 
 </br>
 </br>
