@@ -34,6 +34,8 @@
 
 <p align ="center">
 <img src="https://img.shields.io/badge/Angular-E34F26?style=flat-square&logo=Angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=flat-square&logo=Angular&logoColor=white" />
 
 </br>
 </br>
