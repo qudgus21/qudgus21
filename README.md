@@ -40,7 +40,8 @@
 
 <p align ="center">
 <div align ="center">
-  <span>three</span>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
 </div>
   
   
